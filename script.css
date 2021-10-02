@@ -1,6 +1,6 @@
 li.voice-state:not([data-reactid*="265460513545256961"]) { display:none; }
 .avatar {
-content:url(https://i.nuuls.com/ITDgy.png);
+content:url(https://github.com/ayyybubu/avatar/blob/main/static.png?raw=true);
 height: auto !important;
 width: auto !important;
 border-radius: 0% !important;
@@ -13,7 +13,7 @@ border-radius: 0% !important;
   animation-duration: 1s;
   animation-fill-mode:forwards;
   filter: brightness(100%) !important;
-content:url(https://i.nuuls.com/hxQ_r.gif);
+content:url(https://github.com/ayyybubu/avatar/blob/main/talking.png?raw=true);
 }
 
 @keyframes speak-now {
